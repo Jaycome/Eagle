@@ -12,3 +12,17 @@ If you have all mentioning above, then download and run it!!!
 <p><h2>Feedback & Suggestions</h2>
 If you have any thoughts on the game or you have any suggestions, don't hestiate to let me know.
 </p>
+<p><h2>GUI</h2>
+Login page:
+<img src="https://github.com/Jaycome/Eagle/blob/main/login.png" height="480px" width="320px" />
+Register page:
+<img src="https://github.com/Jaycome/Eagle/blob/main/register.png" height="480px" width="320px" />
+Main page:
+<img src="https://github.com/Jaycome/Eagle/blob/main/Eagle main page.png" height="480px" width="320px" /> 
+Recording page:
+<img src="https://github.com/Jaycome/Eagle/blob/main/record.png" height="480px" width="320px" />
+Blocking page:
+<img src="https://github.com/Jaycome/Eagle/blob/main/block.png" height="320px" width="480px" />
+Report page:
+<img src="https://github.com/Jaycome/Eagle/blob/main/report.png" height="480px" width="320px" />
+</p>
